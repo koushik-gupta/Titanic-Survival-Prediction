@@ -110,7 +110,7 @@ titanic-survival-prediction/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Author
 
