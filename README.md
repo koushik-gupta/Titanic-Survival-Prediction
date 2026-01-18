@@ -87,7 +87,9 @@ The project includes a command-line interface where users can enter passenger de
 
 Each trained model predicts survival independently, and a final prediction is made using majority voting across all models.
 
-## Project Structure
+## 📁 Project Structure
+
+```text
 titanic-survival-prediction/
 │
 ├── data/
@@ -108,6 +110,7 @@ titanic-survival-prediction/
 │
 ├── requirements.txt
 └── README.md
+
 
 ## Author
 
